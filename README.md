@@ -1,7 +1,7 @@
-# Sentiment Analysis on Social Media: Comparasion of the Efficient of the Models 
-This project is the final project of the course Nature Langguage Processing. The research project is aim to compare the efficient of the language model on the both accuracy and computational efficient aspects.
+# Sentiment Analysis on Social Media: Comparison of the Efficient of the Models 
+This project is the final project of the course Nature Language Processing. The research project is aim to compare the efficient of the language model on the both accuracy and computational efficient aspects.
 ## Data Set 
-The dataset used in this project is [sentiment 140](https://www.kaggle.com/datasets/kazanova/sentiment140). The data set which contains 1.6 millions tweets.
+The dataset used in this project is [sentiment 140](https://www.kaggle.com/datasets/kazanova/sentiment140), which contains 1.6 millions tweets.
 ## Code 
 [Code](https://github.com/SofiaChen1996/NPL_exercise/blob/main/sentiment_analysis_on_tweets.ipynb)
 ## Research Content 
